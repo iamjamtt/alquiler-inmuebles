@@ -1,0 +1,1 @@
+<h1 class="text-4xl">Alquila<span class="font-bold">Pucallpa</span></h1>
